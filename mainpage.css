@@ -2,6 +2,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: "Bona Nova", serif !important;
+  font-style:italic;
   background-color: #9eb3c2;
 }
 header {
