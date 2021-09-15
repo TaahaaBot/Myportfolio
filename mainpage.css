@@ -23,6 +23,7 @@ nav h1 {
   color: white;
   letter-spacing: 3px;
   font-family: "Franklin Gothic Demi Cond", arial !important;
+  font-style:normal;
 }
 nav p {
   padding: 0;
@@ -30,6 +31,7 @@ nav p {
   font-size: 32px;
   color: white;
   font-family: "Franklin Gothic Demi Cond", arial !important;
+  font-style:normal;
   display: flex;
   align-items: center;
   justify-content: center;
