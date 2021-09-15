@@ -1,7 +1,6 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: "Bona Nova", serif !important;
   background-color: #9eb3c2;
 }
 header {
@@ -40,35 +39,41 @@ article {
   padding: 10px;
   box-sizing: border-box;
   margin-bottom: none;
-  font-style:normal;
+  font-style:italic;
+    font-family: "Bona Nova", serif !important;
 }
 .heading {
   font-size: 32px;
   text-align: center;
   border-bottom: none;
-  font-style:normal;
+  font-style:italic;
+    font-family: "Bona Nova", serif !important;
 }
 .discription {
   letter-spacing: 1px;
   font-size: 20px;
   text-align: center;
   border-top: none;
-  font-style:normal;
+ font-style:italic;
+      font-family: "Bona Nova", serif !important;;
 }
 .contact {
   font-size: 20px;
   text-align: center;
-  font-style:normal;
+ font-style:italic;
+    font-family: "Bona Nova", serif !important;
 }
 ul li {
   text-decoration: none;
   display: inline;
-  font-style:normal;
+  font-style:italic;
+    font-family: "Bona Nova", serif !important;
 }
 #footer {
   background-color: #931621;
   text-align: center;
   box-sizing: border-box;
   margin: 0;
-  font-style:normal;
+  font-style:italic;
+    font-family: "Bona Nova", serif !important;
 }
